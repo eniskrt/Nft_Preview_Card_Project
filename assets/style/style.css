@@ -79,7 +79,8 @@ main.card div.card-content div.card-price{
     justify-content: space-between;
     color: var(--primary-color2);
     margin: 0px;
-    font-size: 1rem;;
+    font-size: 1rem;
+    font-weight: 600;
     letter-spacing: 1px;
     border-bottom: 1px solid var(--neutral-color3);
 }
@@ -89,6 +90,7 @@ main.card div.card-content div.card-price p img{
 }
 main.card div.card-content div.card-price p.time-left{
     color: var(--neutral-color5);
+    font-weight: 300;
 }
 main.card div.card-content div.card-footer{
     margin-top: 1.4rem;
