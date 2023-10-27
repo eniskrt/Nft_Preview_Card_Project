@@ -22,13 +22,14 @@ body{
 main.card{
     background-color: var(--neutral-color2);
     width: 290px;
-    height: 510px;
+    height: 530px;
     padding: 1.5rem;
     border-radius: 20px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
 main.card div.image{
     position: relative;
+    margin-bottom: 2rem;
 }
 main.card div.image img.main-img{
     width: 100%;
